@@ -1,6 +1,6 @@
 body{
     font-family: Georgia, 'Times New Roman', Times, serif;
-background-color: midnightblue;
+background-color: darkgoldenrod;
 text-align: center;
 box-sizing: border-box;
 display: flex;
@@ -15,9 +15,12 @@ font-size: larger;
 
 }
 
+
 img{
     display: flex;
-    width: 100%;
+    width: 35%;
+    size: 25px;
+    align-self: center;
 }
 .headerimage{
     width: 100%;
