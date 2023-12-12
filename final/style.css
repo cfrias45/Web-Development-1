@@ -1,0 +1,31 @@
+.HomeImages{
+    max-width: 300px;
+    justify-content: center;
+    flex-direction: row;
+    display: flex;
+    padding: 2rem;
+    gap: 1rem;
+}
+
+.links{
+display: flex;
+flex-direction: row;
+justify-content: space-evenly;
+
+}
+
+body{
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+margin: 0 auto;
+box-sizing: border-box;
+font-size: x-large;
+
+}
+
+
+img{
+
+    margin-left: auto;
+    margin-right: auto;
+
+}
