@@ -1,31 +1,56 @@
 .HomeImages{
-    max-width: 300px;
-    justify-content: center;
+    width: 100%;
     flex-direction: row;
     display: flex;
     padding: 2rem;
     gap: 1rem;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .links{
 display: flex;
 flex-direction: row;
 justify-content: space-evenly;
+padding: 2rem;
+background-color: rgba(254, 167, 5, 0.942)
+}
+
+a{
+color: rgb(1, 1, 76);
+text-decoration: none;
+font-size: 30px;
 
 }
+
 
 body{
 font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 margin: 0 auto;
-box-sizing: border-box;
-font-size: x-large;
-
+background-color: rgb(245, 237, 218);
+display: flex;
+flex-direction: column;
 }
 
 
 img{
-
-    margin-left: auto;
+   max-width: 700px;
+   margin-left: auto;
     margin-right: auto;
+
+}
+
+p{
+color: rgb(3, 3, 73);
+text-align: center;
+padding: 0rem 5rem;
+font-size: 20px;
+}
+
+.contact{
+    color: rgb(3, 3, 73);
+    text-align: center;
+    padding: 0rem 5rem;
+    font-size: 40px;
 
 }
